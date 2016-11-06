@@ -19,7 +19,7 @@ In the specification file, the user will fill out the following fields. Informat
 If no attachments are available, then it is okay to leave the space to the right of `=` for `attachments` blank. Below is an example of how to fill out the specification file. Note that the field names should not be modified.
 
 <br>
-<img height = "200" width = "700" src = "https://github.com/CalvinTChi/Email/blob/master/pic1.png" />
+<img height = "200" width = "550" src = "https://github.com/CalvinTChi/Email/blob/master/pic1.png" />
 <br>
 
 The the example in the picture, there are two receipients and each email will have two attachments. 
