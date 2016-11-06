@@ -1,0 +1,8 @@
+account=
+password=
+sender=
+addresses=
+subject=
+attachments=
+recepients=
+
